@@ -70,7 +70,7 @@
 
 .cover {
   display: flex;
-  height: 757px;
+  min-height: 757px;
   width: 1440px;
   background-image: url(../images/cover.jpg);
   background-size: cover;
@@ -232,7 +232,7 @@
   color: white;
   font-family: Raleway, sans-serif;
   font-size: 22px;
-  font-weight: 650;
+  font-weight: 700;
   line-height: 120%;
   text-decoration-line: underline;
   text-transform: uppercase;
